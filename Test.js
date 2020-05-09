@@ -8,7 +8,7 @@ function isprime(n)
         }
         else if (i==n-1&n%i!=0)
         {
-            console.log(n,"is a prime no")
+            console.log(n,"is A prime no")
         }
         else continue;
     }
